@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "83710178774",
+    "firebase_url": "https://scrollview-e0e04.firebaseio.com",
+    "project_id": "scrollview-e0e04",
+    "storage_bucket": "scrollview-e0e04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83710178774:android:931f9dcff3ba4eee",
+        "android_client_info": {
+          "package_name": "com.example.praveen.scrollview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83710178774-ov3qphaghi45nm9a8qi512qubgjavdgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.praveen.scrollview",
+            "certificate_hash": "bdcf255a9bd1ebf36fa79d4ec2211c9a7781b2f2"
+          }
+        },
+        {
+          "client_id": "83710178774-d0eancdb0v10r7klq18mqdebv6e62js7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCds-VmPmmAHBb9IddfmOyH97HWbIVfIHc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83710178774-d0eancdb0v10r7klq18mqdebv6e62js7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
